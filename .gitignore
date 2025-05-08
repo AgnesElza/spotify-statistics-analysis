@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# Data
+*.feather
+*.csv
+*.xlsx
+*.pkl
+
+# Output files
+*.log
+*.out
+*.pdf
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
