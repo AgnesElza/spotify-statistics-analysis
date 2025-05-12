@@ -12,7 +12,6 @@ venv/
 *.env
 
 # Data
-*.feather
 *.csv
 *.xlsx
 *.pkl
