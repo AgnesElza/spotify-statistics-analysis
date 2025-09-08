@@ -1,5 +1,5 @@
 
-# 🎶 What Makes a Song a Hit?  
+# What Makes a Song a Hit?  
 **A Multi-Perspective Statistical Analysis Using Spotify Data (2000–2020)**
 
 This project explores the audio and metadata characteristics that influence whether a song becomes a **Spotify hit**, using a full-stack data science approach:
@@ -9,7 +9,7 @@ This project explores the audio and metadata characteristics that influence whet
 
 ---
 
-## 🧠 Project Goals
+## Project Goals
 
 - Identify which features correlate with hit potential
 - Estimate the **causal effect** of danceability using Propensity Score Matching
